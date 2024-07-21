@@ -1,5 +1,7 @@
 # LinKer - LinkedIn Connection Request Message Creator
 
+Link : https://www.youtube.com/watch?v=PbGXBFd-YZA&t=9s
+
 LinKer is a Streamlit-based web application that helps you create personalized LinkedIn connection request messages. By leveraging OpenAI's powerful language models, you can generate messages that are humble and professional, tailored to the person's name and bio.
 
 ## Features
